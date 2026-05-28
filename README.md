@@ -89,7 +89,8 @@ endmodule
 
 
 **RTL**
-<img width="1376" height="460" alt="595956004-549d13fd-f54c-405a-a468-125d7a42497a" src="https://github.com/user-attachments/assets/6bba8207-d6d4-449f-b9a5-47bb267a4925" />
+<img width="1920" height="1080" alt="597530600-18c1d255-66ab-42bd-9bf7-e93456e04fa1" src="https://github.com/user-attachments/assets/cb4e7a60-a6e5-4e88-bdfd-74415fe30f07" />
+
 
 **Result:**
 
